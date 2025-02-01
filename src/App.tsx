@@ -1,13 +1,10 @@
-import YouTubeForm from './Components/Youtubeform'
+import YouTubeForm from "./Components/YouTubeForm";
 function App() {
-
-
   return (
     <>
-    <YouTubeForm/>
-    
+      <YouTubeForm />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
